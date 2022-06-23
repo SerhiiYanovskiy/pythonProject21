@@ -100,5 +100,5 @@ def pars_yahoo():
 
 
 data_from_file()
-data_from_file()
+pars_yahoo()
 
